@@ -1,7 +1,0 @@
-int 
-main(void)
-{
-    int count = 0;
-    return count;
-    exit();
-}
